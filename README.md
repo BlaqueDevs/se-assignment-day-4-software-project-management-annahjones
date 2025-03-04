@@ -38,8 +38,28 @@ Disadvantages of waterfall Methodology
 Difficult to accommodate changes.  
 Testing occurs late in the process.  
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+When Agile is More Beneficial
+Best for: Dynamic, fast-changing, or iterative projects.
+Example: Software development startups – Frequent updates and changing customer needs require flexibility (e.g., developing a mobile app with ongoing user feedback).
+
+When Waterfall is More Beneficial
+Best for: Well-defined, structured projects with clear requirements.
+Example: Government infrastructure projects – Strict regulations and fixed requirements (e.g., building a public records system).
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Methods for Ensuring Quality Assurance in a Software Project 
+Code Reviews – Regular peer reviews to identify and fix issues early 
+Automated Testing – Use unit, integration, and regression tests to ensure functionality. 
+Continuous Integration (CI) – Frequently merge code changes to detect errors early.
+User Testing – Conduct beta testing to gather real-world feedback.  
+Documentation & Standards – Follow coding best practices and maintain clear documentation.  
+Importance of Maintaining High Standards
+Prevents Costly Bugs – Fixing issues early saves time and resources.  
+Improves User Experience – High-quality software ensures reliability and usability. 
+Enhances Security – Reduces vulnerabilities that could be exploited. 
+Boosts Reputation – A well-tested product builds trust with users and stakeholders. 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Project Scope – Clearly defines goals, deliverables, and constraints, ensuring alignment and preventing scope creep. 
+Work Breakdown Structure (WBS) – A hierarchical breakdown of project tasks that improves organization, assigns responsibilities, and tracks progress efficiently.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
